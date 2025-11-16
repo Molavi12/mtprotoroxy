@@ -33,4 +33,4 @@ RUN chmod +x /light-start.sh
 
 EXPOSE 443
 
-CMD ["/light-start.sh"]
+CMD ["/start.sh"]
